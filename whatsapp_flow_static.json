@@ -1,0 +1,169 @@
+{
+  "version": "7.3",
+  "data_api_version": "3.0",
+  "routing_model": {
+    "LOAN": [
+      "DETAILS"
+    ],
+    "DETAILS": []
+  },
+  "screens": [
+    {
+      "id": "LOAN",
+      "title": "Tu préstamo pre-aprobado",
+      "data": {},
+      "layout": {
+        "type": "SingleColumnLayout",
+        "children": [
+          {
+            "type": "Form",
+            "name": "loan_form",
+            "children": [
+              {
+                "type": "Image",
+                "src": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=800&h=300&q=80",
+                "height": 150,
+                "scale-type": "cover"
+              },
+              {
+                "type": "TextSubheading",
+                "text": "Aquí tienes tu préstamo pre-aprobado"
+              },
+              {
+                "type": "TextBody",
+                "text": "Esta es una oferta exclusiva para ti. Solicítalo ahora mismo y recibe tu dinero en minutos."
+              },
+              {
+                "type": "Dropdown",
+                "label": "Monto del préstamo",
+                "required": true,
+                "name": "amount",
+                "data-source": [
+                  {
+                    "id": "10000",
+                    "title": "S/ 10,000"
+                  },
+                  {
+                    "id": "5000",
+                    "title": "S/ 5,000"
+                  },
+                  {
+                    "id": "2000",
+                    "title": "S/ 2,000"
+                  }
+                ]
+              },
+              {
+                "type": "Dropdown",
+                "label": "Plazo",
+                "required": true,
+                "name": "tenure",
+                "data-source": [
+                  {
+                    "id": "12",
+                    "title": "12 meses"
+                  },
+                  {
+                    "id": "24",
+                    "title": "24 meses"
+                  },
+                  {
+                    "id": "36",
+                    "title": "36 meses"
+                  },
+                  {
+                    "id": "48",
+                    "title": "48 meses"
+                  }
+                ]
+              },
+              {
+                "type": "TextBody",
+                "text": "Tasa de interés: 9% efectivo anual"
+              },
+              {
+                "type": "TextBody",
+                "text": "Comisión de desembolso: S/ 0"
+              },
+              {
+                "type": "Footer",
+                "label": "Continuar",
+                "on-click-action": {
+                  "name": "navigate",
+                  "next": {
+                    "type": "screen",
+                    "name": "DETAILS"
+                  },
+                  "payload": {
+                    "amount": "${form.amount}",
+                    "tenure": "${form.tenure}"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "DETAILS",
+      "title": "Detalles del desembolso",
+      "terminal": true,
+      "data": {
+        "amount": {
+          "type": "string",
+          "__example__": "10000"
+        },
+        "tenure": {
+          "type": "string",
+          "__example__": "12"
+        }
+      },
+      "layout": {
+        "type": "SingleColumnLayout",
+        "children": [
+          {
+            "type": "Form",
+            "name": "credit_details",
+            "children": [
+              {
+                "type": "TextSubheading",
+                "text": "Selecciona el método de desembolso"
+              },
+              {
+                "type": "RadioButtonsGroup",
+                "label": "Modo de pago",
+                "required": true,
+                "name": "payment_mode",
+                "data-source": [
+                  {
+                    "id": "YAPE_PLIN",
+                    "title": "Yape / Plin",
+                    "description": "Usando el número de celular asociado"
+                  },
+                  {
+                    "id": "BANK_TRANSFER",
+                    "title": "Cuenta Bancaria BCP",
+                    "description": "A la cuenta sueldo que tienes registrada"
+                  }
+                ]
+              },
+              {
+                "type": "Footer",
+                "label": "Aceptar y Solicitar",
+                "on-click-action": {
+                  "name": "complete",
+                  "payload": {
+                    "amount": "${data.amount}",
+                    "tenure": "${data.tenure}",
+                    "payment_mode": "${form.payment_mode}"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
