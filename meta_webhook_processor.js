@@ -41,33 +41,54 @@ app.post('/webhook', async (req, res) => {
                                 }
                             },
                             "xdmEntity": {
-                                // Aquí declaras los atributos mapeados para Adobe Journey Optimizer
                                 "_id": messages.id,
                                 "timestamp": new Date(messages.timestamp * 1000).toISOString(),
-                                "wa_id": wa_id,
-                                "messageType": messageType,
+                                "eventType": "whatsapp.template.interaction",
+                                "identityMap": {
+                                    "CICID": [
+                                        {
+                                            "id": wa_id, // Aquí podrías hacer un lookup a tu BD para traer el CICID usando el wa_id
+                                            "primary": true
+                                        }
+                                    ]
+                                },
+                                "_tutenantedbcp": { // Reemplazar por tu ID de tenant
+                                    "whatsappInteraction": {
+                                        "interaction": {},
+                                        "context": {
+                                            "profileNumber": wa_id,
+                                            "reactionMessageID": messages.context ? messages.context.id : null
+                                        },
+                                        "template": {
+                                            // TODO: Realizar lookup o parsear el mensaje original para inyectar ID/Name real de la plantilla
+                                            "id": "ID_POR_RESOLVER", 
+                                            "name": "NOMBRE_POR_RESOLVER"
+                                        }
+                                    }
+                                }
                             }
                         }
                     };
 
                     // 1. Manejo de Quick Replies (Botones normales en plantillas)
                     if (messageType === 'button') {
-                        const payloadBoton = messages.button.payload; // Ej: "quiero_mi_prestamo"
+                        const payloadBoton = messages.button.text; // o .payload dependiendo de cómo llegue de Meta
                         
-                        cdpPayload.body.xdmEntity.eventType = "whatsapp.button_click";
-                        cdpPayload.body.xdmEntity.buttonPayload = payloadBoton;
+                        cdpPayload.body.xdmEntity._tutenantedbcp.whatsappInteraction.interaction.type = "button";
+                        cdpPayload.body.xdmEntity._tutenantedbcp.whatsappInteraction.interaction.inboundMessage = payloadBoton;
                         
-                        console.log(`[BOTÓN] Respuesta rápida recibida: ${payloadBoton}`);
+                        console.log(`[BOTÓN] Respuesta en plantilla - Opción: ${payloadBoton}`);
                     } 
                     
-                    // 2. Manejo de completado de WhatsApp Flows
+                    // 2. Manejo de completado de WhatsApp Flows interactivos (nfm_reply)
                     else if (messageType === 'interactive' && messages.interactive.type === 'nfm_reply') {
                         const flowResponseJson = JSON.parse(messages.interactive.nfm_reply.response_json);
                         const flowName = messages.interactive.nfm_reply.name;
                         
-                        cdpPayload.body.xdmEntity.eventType = "whatsapp.flow_completed";
-                        cdpPayload.body.xdmEntity.flowName = flowName;
-                        cdpPayload.body.xdmEntity.flowResponse = flowResponseJson; 
+                        cdpPayload.body.xdmEntity.eventType = "whatsapp.flow_completed"; // Tipo diferencial para Flows
+                        cdpPayload.body.xdmEntity._tutenantedbcp.whatsappInteraction.interaction.type = "flow_submission";
+                        cdpPayload.body.xdmEntity._tutenantedbcp.whatsappInteraction.interaction.inboundMessage = flowName;
+                        cdpPayload.body.xdmEntity._tutenantedbcp.whatsappInteraction.flowResponse = flowResponseJson; 
                         
                         // flowResponseJson contendrá los datos del submit de tu Flow:
                         // { "amount": "amount1", "tenure": "months48", "payment_mode": "UPI", ... }
