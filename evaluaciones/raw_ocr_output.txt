@@ -1,0 +1,506 @@
+--- INICIO DE EXTRACCIÓN ---
+
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.38.41 PM.jpeg ===
+h
+Rey has been running for a month and an issue with the email content has just been reported. The business
+etitioner needs to check the reporting for that journey in order to provide all of the KPIs required to measure the
+i
+i
+Would the business practitioner access this information? 1
+y Beess the Global Report of that journey and check the data in the "All time view" 3
+-
+Ac ess the Report" menu item, then select "Journeys" in the "Action from" drop-down and filter out the data a -
+= Dr
+Access the Live Report of that journey and check the data for the last 24 hours 1
+LS
+mment about this question
+L A 1»
+o. = 2
+ña
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.37.42 PM.jpeg ===
+fee company uses Adobe Journey Optimizer (AJO) to enhance its email marketing campa
+5 :
+5 to create hyper personalized emails to engage with different customer segments effect tively E
+d isco ints as and when they complete certain milestones in the customer journey. =
+re thre e personalization sources that are available for marketers to use in constructing email content wi
+
+Js MA “ny
+lution for personalization? (Choose three.)
+
+F nn:
+a i
+Fe 2
+
+elper functions pe
+ffer decisions EE
+i
+udiences DS E
+alc ulated attributes r 3
+E E T
+— a
+about this Question =
+_— TL oh = LI
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.39.05 PM.jpeg ===
+3/712 'ag this page
+BS  Abusiness practitioner has built a [
+i) E
+1 a
+4 What would the business p b
+= EE
+i Select the Run b I E
+3 © Schedule the y
+a Hit the Publish Buttor
+1 Choose 1 option
+Send a comment about tt J
+po.
+LL aL
+E _
+E 4
+i =
+a —. E Re
+- :9 E pg
+BEE Coo LCE BOO
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.40.32 PM.jpeg ===
+a
+BNO types of Expression Fragments that can be authored in Adobe Journey Optimizer 1
+XML E
+ih TE i
+is) HTML y
+a IMAGE
+ua
+1
+paste 7 opti -
+E
+D
+ME CEN y
+= y
+: F
+i
+—— "E AP OB oO
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.39.53 PM.jpeg ===
+— A.
+Flag this page
+4 Adigital marketing specialist is planning a comprehensive campaign using Adobe Journey Optimizer for a new prod ct
+i launch. Personalization is a critical element of the strategy to maximize engagement. The specialist wants to ensure that —
+e fs 2 oe
+Ieustomers receive content tailored to their preferences, including past purchases and browsing behavior. ks
+E Which enables the specialist to leverage historical customer data, such as past purchases and interactions, to personalize ;
+E content and interactions within a customer's journey?
+i 5 Journey Analytics
+E Experience Events
+N 5 Real-time Triggers :
+E O Personalization Fields a
+3 a
+Choose 1 option
+E Send a comment about this que N
+ia
+Bl
+1 Q Buse :0 £ E FA a fa
+Eu HALE Er
+rp od ae
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.41.10 PM.jpeg ===
+s page
+retail company uses Adobe Journey Optimizer (AJO) for personalized marketing campaigns and Adobe Experience
+— . 5 EL
+atrorm (AEP) for data management. The business practitioner want to ensure data used in AJO journeys complies wi
+data regulations and internal policies -
+8 : iq
+Which AEP capability best supports this objecti E
+ET 3 —— =
+AEP Profiles: Provides a unified custome jo! -
+“ha :
+== JS
+O AEP Data Governance: Defines usage p € AJO journeys : LD
+- E
+16) AEP Schema Registry: Standardizes data f f t enforce usage control 5
+hoose 1 option. b-
+LE =
+Ide 1 comment about this question
+UU iid
+ly d a 4
+— = E
+a “Buscar = L ar e - de a ) Y
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.41.33 PM.jpeg ===
+E 1
+ISINESS practitioner wants to add a level of personalization inside an email message and has the E
+Me required field has a listString type and is disabled.
+OW Would the business practitioner access this field? Eo
+lo Switch the Expression Editor to Advanced Mode ; RL
+A Access the Profile Schema to access the profile-level field i
+i
+BO Convert the field from listString to String Nn
+I Ta
+Me Use a loop to access the field E
+E Nr
+pose 1 option. Re
+h al
+daco about this question 4
+fa: i
+:
+o = i
+r= a am i ... E
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.42.04 PM.jpeg ===
+ag this page
+i
+i "
+E A Business practitioner is putting together a new "Weekend Sale" journey that will send an Email to aleuete
+
+message and only for the loyal customers, the business practitioner wants to include an additional image bam
+
+With a discount based on the three levels of loyalty (Gold, Silver and Bronze) 1
+How can this be configured in Adobe Journey Optimizer? A
+mage Placeme e leveraged into the Email Designer to decide on the best images to serve to the targeted pra les.
+Conditiona es can be leveraged into the Email Designer and the expression editor to create dynamic content which will
+mages to the loya tomer .
+
+Event attribute everaged within the image URL to personalize the image based on the value of a query string parame
+
+pr
+
+Choose 1 option 4
+
+Send a commer of
+
+1 Il
+4
+E. 2
+i
+L " - — —
+— —— 7. a M iP © -
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.42.30 PM.jpeg ===
+_ - —-— —
+e (MEA) ars. f a em
+3 page :
+ll 5
+an , .
+PO Anemail ma risf the deliverability of email ;
+E To increa E t tized y
+109 E
+h Chew se 0
+1720
+e: Sami a cor
+i Ne
+i
+Br
+a ME
+= 7 aa + a an EEE
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.43.11 PM.jpeg ===
+pea a e - Ii
+Flag this page
+10. While running a test, a journey reaches a decision point based on a customer's loyalty points: However, al I:
+F ala
+10 be directed down the same path, regardless of their points ’
+What might be the problem? h
+i e
+e: n test € the jiences will do the first patt 3
+1 E
+The 1 t aching point is incorrectly formulated
+q a
+- e republished after modifying the branching conditions
+i
+i —
+i a
+send 2 4
+hy L —
+a
+" ,
+-_ R «0 48 a Oa
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.44.08 PM.jpeg ===
+13/72 Flag this page i
+3 2 2 E
+113: A journey needs to listen to Adobe Experience Platform data in order to send messages daily to a specified set of p
+E What would a business practitioner do to achieve this? a
+E
+e
+4 e
+Create Batch Segment a
+y a
+Create Batch Evaluation Audience E
+i
+e
+Choose 1 option. 3
+E U r
+3 Jie
+E Send a comment about th yestio "E
+des - = a i)
+QA Buscar L a £ Bor
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.43.26 PM.jpeg ===
+EE A eee eee J Te Poms a - See
+72 Flag this page
+11 e Abusiness practitioner is using an image from A t y nessage but realizes that the image does not loo
+{ like it used to be in a previous email me J —
+E How would the business practitioner EL
+E
+© Click on the Import Media butt reviously is
+y Open the email message from latest image 7
+Open an asset's preview in th t sidebar, preview the previous version,
+E select it and click Make Late
+Open the previous email messac k on the image placeholder and paste the Sus
+a 9 image URL E
+Choose 1 option Ne
+ÉL E
+1 Send a comment about this question gd
+B= D by:
+y : ui aro a
+7 E -0 = a Re
+EE Lie mano OX
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.44.34 PM.jpeg ===
+a!
+U 3
+a Ze
+an St responsible for orchestrating data flows into Adobe Experience Platform notices that a sele
+) has failed
+e B
+Sat Step would the analyst take to diagnose and resolve this issue? E I
+E L *
+r —_
+ME Examine the Data Ingest gs for detailed error information :
+y
+1 o ASK the source system to resend the data E
+I. 1
+E Delete the failed job and recreate it with the same configurations E
+4
+E REO the ingestion job immediately to see if it resolves itself a
+E d
+e pose 1 opton it
+ol
+E pr
+Ln rr
+e - r .
+Q mc L Mem
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.44.22 PM.jpeg ===
+4. Abusiness practitioner is launching a loyalty program offering different tiers of personalized discounts based on pureh:
+mi]
+history.
+i op
+How can Decision Management help ensure accurate offer selection and prevent tiered customers from receiving lowertiel
+J *
+discounts? Re
+© Implement Profile Caps" to limit the total number of discounts each user can receive across all tiers
+] di
+i ©) Utilize fallback offers with generic discounts in case loyalty tier verification fails hr
+y i}
+i. o Define decision rules within each offer collection to validate the user's loyalty tier against the offer eligibility a
+i
+I Ny
+“Choose 1 option.
+y
+Send a comment about this question E
+ME so
+5 iv
+"al si
+a
+QQ Buscar L a £ =a + 8 Df
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.45.14 PM.jpeg ===
+Flag this page
+, a re.
+r ES
+In addition to impressions, which Key Performance Indicators are in the in-app total engagement: report? -
+i. i
+Le uu
+o a
+© Impression rate, Bounce, Bounce rate h
+: —
+a
+E © Interactions, Dismisses, Dismiss rate q
+18 a
+E Sent, Click, Click rate =
+y
+5
+. A E
+Choose 1 option. E
+"E E
+E — au
+Send a comment about this question a
+y J
+1 ES, i
+E: i
+2
+El :
+ae y
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.44.50 PM.jpeg ===
+ge: 16/72 Flag this page
+ied pss
+e ™
+B16. For which two channels in the Adobe Journey Optimizer solution are "Expression fragments” accessible? (Choose fi 0)
+J =.
+i ES
+a sms ==
+3 n-app Ea
+i Ss
+y Web 1
+ul 4 E
+Ne Ema rr
+E L
+E E
+E Choose 2 options E
+- a
+BE: Send a comment abo Bi:
+| a
+E E:
+r
+: E
+4
+, 6
+1 9 00
+A 1 i I 7]
+Es TERN
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.45.38 PM.jpeg ===
+E NS eAbusiness practitioner wants to validate a customer journey by sending a proof to a specific email, but is not able to sena Uli
+E What might be the reason for this
+E - Ea E
+po 3
+; \ 1
+E The give a q th Jr -
+- e namespace selecte eratinc oof Y ir 3
+i
+Choose 1 of
+Send a
+D
+E —
+ir .0 E > 6 a
+Bm co L deL: GOCE
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.46.03 PM.jpeg ===
+re two use cases for which a business practitioner would use an "Unitary Event" in a journey? (Choose
+q A product has restocked, notify customers with a favorite for that product E
+3 cart has been abandoned, notify customers with an abandoned cart >
+1 An appointment is coming up, so notify customers what they need to prepare for it ES
+“ Aprice drop has occured, notify customers that are interested Ee
+se 2 options. A
+com ment about this question E E
+dal
+k “a
+: pe
+y e
+"a y
+A: a E a
+= == —a0.. sm ME
+uscar EL am a
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.46.18 PM.jpeg ===
+Etlis the purpose of an email surface in Adobe Journey Optimizer? Ek:
+IE 5
+i
+a a
+o Ihe email surface determines the frequency rules of messaging —
+Ne email surface defines the technical parameters required for the messages, including email type, sender email and sel der na
+il
+By iN
+o he email surface determines the template to use for the email design, including the subject, images and text. Be
+. ==
+pose 1 option. a
+8 comment about this question i=
+= al
+E al
+bs dl
+sa — 29 6 2
+or e FC
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.46.32 PM.jpeg ===
+2 " “Un
+i) -
+AE What is the result when identities link consumers across devices and channels?
+E 1]
+| a
+O Identity graph 3
+É i
+F o Identity query
+E © Identity matrix i
+_ o Identity service y
+2 4
+i E
+1 Choose 1 option a [
+E Es
+Send a comment about this questic Ny
+a =
+L
+Ro. = A
+E y pu
+— . dom
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.46.55 PM.jpeg ===
+22 While adding an offer decision to an email, a business practitioner sees only one offer decision in the selection list a
+there are multiple in the system E
+E What could be the reason for this? =
+3 a q
+a E
+Only one offer decis as the right collection qualifier
+pr E
+y Only one offer dec matches the selected placement E
+E - 2
+s The business practitioner has access to only one offer decision <=
+i
+L
+= i
+Choose 1 option a
+Send a comment about E
+—- pa
+a oY
+— F a La a e - Ge '
+- Buscar - &
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.47.19 PM.jpeg ===
+Al
+J
+4 i iE
+2 When a simple event is triggered via an external system, a business practitioner sees it show up on the test profile and ti
+y published journey triggers. However, the email is never sent. All the events reach the email activity but then flow: down the
+E path for “timeout or error". The business practitioner checked the channel surface and test profile and there Was nOli==ú e.
+What else would be checked to continue troubleshooting? = E
+E That the journey entry qualification was configured correctly e
+If a wait activity is triggering the time out i
+ey
+E That the event identity matches the profile identity Le
+ii
+a e
+Ri Choose 1 option. i
+-- a
+- Senda comment about this questior pr
+9 5 Ne
+a =
+y: Aa
+a =
+Ek: T
+e — i r o 7
+UN o Life ma aoe
+— 1“.
