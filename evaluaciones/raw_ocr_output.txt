@@ -504,3 +504,521 @@ Ek: T
 e — i r o 7
 UN o Life ma aoe
 — 1“.
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.47.30 PM.jpeg ===
+gir er a
+
+e —
+
+74 A business practitioner is putting together the c = y.
+T J actitioner Is putting together the content of an email in the Adobe Journey Optimizer's email designer. The
+= hero image of this email needs to switch based on personalization parameters and all variations are available in Assets
+
+ets.
+
+3 How can Dynamic Media URLs be leveragec his case wl A RE ih
+3 amic Media URLs be leveraged in this case while authoring emails in Journey Optimizer? By
+a _
+E Be
+i Paste the image URLs, instead of selecting from the Asset Selector, and add the personalization fields to the URIS pr
+
+E g
+a De
+E GIFs and Video are available in the Assets library and can be selected as Dynamic Media a
+a
+: 4 In the expression editor within the Image URL field write down an IF/ELSE statement to change the image URE 4s
+: un
+L Click on the "Select an asset” button on the image placeholder and then activate the Dynamic Media capability “al
+E a
+. Choose 1 optio: RE
+Send a comment abo e e E
+a
+Li a
+i =
+a 4 i
+— Es 7 00
+a ES 3 [E a £ “a + a a o
+a Q Buscar ” > A
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.47.47 PM.jpeg ===
+2 Flag this page
+#25. A'business practitioner creates a journey with the activities Read Audience > Email. They want to re target al
+E does not click the email in 1 day i
+3 What else would be configured in the journey to allow this? :
+© Add a Wait activity set to 1 day, then add an email action to the output branch Y
+.
+Build a streaming audience that looks for Email 1 opens in the last 1 day, use a Read Audience activity to listen for that audien ce
+SU then add a second email action to the output branch E
+a
+- Define the timeout of the first Email activity to be one day within the action configuration, then add a second email action to the
+c E
+| output branch 5
+d
+E Add a Reactions event, select Email opened, and define the event timeout to be 1 day, then add an email action to the timeout
+© branch il
+E
+Choose 1 option. i
+e
+— E
+Send a comment about this question É
+E ¿al
+L y
+a | ES 1 7 » Y
+Ce Le Hane
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.47.59 PM.jpeg ===
+e fs
+26. A business practitioner is running a content experiment E
+What two best practices would the business practitioner keep in mind? (Choose two.) a
+ra
+. =) Isolate the variables that are being tested 4
+Ensure right metric is being used pr E
+E Use a content survey a
+3 fer
+| Understand the certainty y: y
+Choose 2 options. E =.
+7 Send a comment about this c al 3
+L re
+k E
+ú =
+i _—
+E Pe uals
+NN usar kL as & = pie -
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.48.13 PM.jpeg ===
+7 Flag this page
+i se
+27: A Journey Optimizer business practitioner wants to target an audience with personalized offers across multiple char n
+y
+What would be configured in the offer representation for each marketing channel? 1
+| E
+: E
+a
+| Rules *
+C )
+5 Placements —
+Components i
+Y Choose 1 option 3
+ul BY
+" Send a comment about this questior a
+1 4
+a =
+. ua
+By =i
+“el o EL A
+Q Buscar [a af £ po + a &
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.48.25 PM.jpeg ===
+Si -
+A business practitioner needs to evaluate a segment for a customer journey of product view > products
+purchase. 1
+What evaluation method would be used in combination with streaming data ingestion? E
+i —
+E
+Eo Dynamic 1
+I Muiti-entity E
+E
+e ntial E
+Lo Seque
+y
+o.
+E pose 1 option.
+s en Ja comment about this question 4
+ig |
+, i
+- a
+Bi a
+he a —
+== .. 0 MU
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.48.41 PM.jpeg ===
+A busine: iti i ; e 3 y
+a r J ener is creating a real-time journey to send an email to all profiles who viewed tl
+i jage only during the period of February 1- March 31, as a particular promotion is displayed duri 1g th
+fis J “ai
+
+4 In what two ways would the business practitioner ensure that these profiles will join the journey only during
+(Choose two.) i
+E ki
+E Ds
+fi al Set the Start date and End date of the Journey properties accordingly "a
+E É
+i: 1
+Er 0 Set the Start date and End date conditions accordingly directly within the Audience definition
+
+: E o Set the Start date and End date of the Message properties accordingly a F
+
+bi
+E Eo Get the Adobe Journey Optimizer administrator to create an event that includes the corresponding Start date a d End
+Choose 2 options. a
+E a
+end a comment about this question a
+0 a
+L 5
+Q Buscar e -
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.48.57 PM.jpeg ===
+J Da
+imarketer wants to analyze the click to open ratio (CTOR) across multiple email campaigns. ú
+LL ts "1 E
+What feature within Adobe Journey Optimizer allows the marketer to achieve this goal? 1
+pe y
+© Channel Analytics Integration i
+E 11.
+EU Dynamic Content Optimization E kK
+E mM
+3 © Engagement Tracking i
+© Tracking Statistics J
+e r
+Choose 1 option. K
+* BE
+Bend a comment about this question Be
+a 4
+E " = 3
+Q Buscar | a e — de + E jes
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.49.23 PM.jpeg ===
+i =i 3 .
+s E
+a ú
+2. What is the primary benefit of using fragments? E
+És C
+ñ © Security -
+¢ Compatibility fe
+E
+5 Reusability ) a
+y
+Choose 1 option. ES
+| Send a comment about this question E
+i 4
+Lo E
+E
+hs 4 A
+Lb a
+E —
+L
+En 2 i 06
+A ua Laden a ae 7)
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.49.10 PM.jpeg ===
+191 e Abusiness practitioner wants to test a journey with a profile in order to test the journey logic. i
+a What field needs to be set to "True" for a profile to be used in a journey in Test Mode? A
+E i
+1 a
+“a © testProfile a
+: E
+1 5 validator a
+i 5 QAProfile 3
+i a
+i o tester Fr
+3 1
+E Choose 1 option E E
+EE: a
+L Send a comment about this quest a
+E 4
+: —
+jo :0 Eo DS
+— e L. PEu:afn0s
+fal
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.50.00 PM.jpeg ===
+ag this page
+E |
+A business practitioner needs to evaluate a segment for same-page and next-page personalization,
+i
+What evaluation method would be used? 3
+| -
+A o Batch 1
+| i
+3
+i © Streaming
+1 i
++ © Edge i
+L ir
+, Cho ose 1 option. 3
+; oa
+i Send a comment about this question F
+L
+| 4
+~
+— ,
+A" rr:
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.50.19 PM.jpeg ===
+al i he
+JUSINESS practitioner wants to build a "Black Friday" Offer Collection by manually selecting individual offer:
+ack Friday" promotion !
+Mm 1
+Which type of Offer Collection would the business practitioner create? 5
+y IH A Dynamic Collection -
+y © A Mixed Collection | E
+E
+5 A Static Collection E
+i i
+1 2 pr
+¡Choose 1 option ou
+i. al
+Se ds comment about this questio a i
+i E
+a 8
+E ui
+3 r
+E, A
+E : - PP
+Q Buscar [ E © “+ E LOA
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.50.26 PM.jpeg ===
+a lin : A Ei
+195. "An Adobe Journey Optimizer business practitioner wants to capture the state of the system at the time an ac ion occ
+MU Which class would the business practitioner use for this purpose? a
+e on
+4 a ps
+r © XDM ExperienceEvent pe
+3 © XDM Individual Profile RS:
+DE Do
+" © XDM Time-series Schema i E
+- © XDM Ad-hoc Schema E
+e Choose 1 option. A
+- ! Send a comment about this question E 5
+pu 0 % 1 = 3
+EA ua Lema O06
+- - = — -
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.50.59 PM.jpeg ===
+E $ A a
+a 197.  Abusiness practitioner wants to create an audience of customers except Platinum ones. The practitione
+i audiences:
+A = All customers E:
+B = Platinum customers 7
+C = Gold customers :
+D = Silver customers =
+| y
+3 What is the correct sequence to follow? =
+A E
+1 5
+3 * Add audience A E E j
+a e Add audience B to A by using the intersection method a
+E
+;
+* Add audience A -
+e Exclude audience C ; A
+* Exclude audience D 9
+3
+us
+E e Add audience A =
+1" o » Exclude audience B 10
+Choose 1 option a
+Es = A
+miento: z ———
+aE L J J eT
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.50.37 PM.jpeg ===
+us =
+i ue
+i, —
+96. A business practitioner sets up a streaming segment B that qualifies profiles based on data fields and membersl
+Segment A. Segment A has the condition that people who have purchased a product in the past hour hey no tice the
+Segment is not qualifying profiles as expected EB
+Why might this be? E
+-—
+g Because segment B is based on segment A, it too will be evaluated nightly even though it's defined as a streaming Segment: E
+: i 1
+The data fields are likely up incorrectly and not populating the right data pe
+E EE.
+1 Because se nt A E ¡ment, B will move further away from the actual data until it re-syncs with the segment Bupdate: E
+A members t t egment in th nditional configuration of a streaming segment cannot be used E
+E
+Choose 1 opt =
+a
+Send a com i
+§ EE
+Ee 2 RE
+mo Lif eB a a
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.51.29 PM.jpeg ===
+- E
+P39. business practitioner is creating a new "Business Event" and has to select a schema that describes this event 1
+e What is the type of the identity namespace that must be set in the schema for the primary ID attribute? a
+a is
+rE BBS: Device 1D Tig
+a E
+1 Device ID E
+E “a
+1 Sue
+E Choose 1 optio aE
+aq ña
+- i
+Send a cor 1 A
+a
+1.
+E . re
+==
+I= ==
+Ñ = © a aoe
+BR L em:
+y o Q Buscar ; -
+a
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.51.14 PM.jpeg ===
+a oe
+q = .
+ASE A Business practitioner notices that the Profile is missing when an event Activity is triggered along with the Profile API
+creation --
+What two actions would the business practitioner take? (Choose two.) EE
+A
+Setup a 1 ately leverage the profile E
+E
+Add a wait a event, to give the time it needs to perform the ingestion to Prof e Service 2
+E
+i Wait for t E to UPS that happens every 15 minute E
+2
+ge
+ait for t t xun before Publishing the Journey i
+E Choose 2 a
+Er: Send a =
+E e
+E ==
+- a Lie ms GOOG
+BE Bn : sE 5
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.52.13 PM.jpeg ===
+41% -
+ESS practitioner wants to start a customer journey whenever someone makes an online purchase
+EE type will the business practitioner need to use to start this journey? 3
+EA Reaction activity 5
+- ñ
+An Orchestration activity l
+: 3
+N 1
+5 An Action activity q
+4 5
+a
+An Event activity pr
+: h 1]
+se 1 option E
+pmment about 17:
+i i
+i 3
+fi
+a = ave
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.51.44 PM.jpeg ===
+e EZ A Meek (SD MONO
+ge: 40 /72 Flag this page
+- 1
+40. A business practitioner is asked to execute one control group and two content treatments for a Campaign.
+Mm
+E What steps would the business practitioner take TS
+E
+E Use A/B testing feature in Camp i
+y © Use the A/B/control group test fe -
+E ie,
+a Create a journey with two treatme | iy
+a 5 E.
+i Create a Campaign with tw: e C :
+e
+3 E
+Choose 1 option. a
+E 5
+L Send a comment about tf e Ne
+ge Ee
+e
+- .9 q : 0 ©
+- Fe ET WOR EE. Lo)
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.52.32 PM.jpeg ===
+420A business practitioner is working on a loyalty program and wants to congratulate the new customers who are enterí I
+3 s : ta A i a
+Silver level of the program, but not all the Silver customers. The practitioner can use a streamed audience named Silver
+L customers
+A What is the correct way to configure the journey? fo.
+r e Start the T an ‘Audience qualification’ activity E
+a « Select the auc m Sil ustomers' and check the box ‘Enter “a
+E Ad y é i
+« Start the with an ‘Audience ification’ activity “i
++i il i ES
+i 3
+2 e Select the audien ¿med 'Silver customer RN
+E: oo tition heck that the 'Last qualification time' is greater than 10 minutes e
+pi: + Add an Email activity to congratulate customers a
+Start the ¡ourr vith a ‘Read an audience' activity E
+* Sta ne journey w a a
+» Select the audience named 'Silver customers ==
+) an
+«+ Add an Email activity to € ongratulate customers A
+ko Rr
+BS. A
+RS E us
+i el
+E ehonse 1.00100 :0 E > O
+Hi Ea r La 9 £ z + a 3 o
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.52.56 PM.jpeg ===
+E
+5 mn
+43. “A business practitioner in California (Pacific Time) is building a journey for a company that services multiple time zones ing oy
+E the USA. They want the email to go to each customer at 1 00pm in their unique time zones a
+A Assuming the company has time zone data for their customers, how would this be achieved? EB
+<a 1
+E In the journey preferences, select "Use et ai 1d conditions", then use a Wait activity before the email to wait Until
+a 1:00pm \
+i
+E Burn enc | ts and 16”, then configure the journey as desired and schedule
+E In the journey prefe S C € ir its and J j y
+a Sart for 1 nn f Ti
+E ea a diff N a , y hedul: 1 on to start JOpm in their respective time zones L
+y
+3
+Choose 7 option
+3 Send a comment ab
+y E
+— o 6 a
+com a Q Buscar L a £ a+ Ed a eo
+Buscal 2 - —
+
+
+=== IMAGEN: WhatsApp Image 2026-04-22 at 7.53.15 PM.jpeg ===
+; y
+J; TU
+44. When validating the content of an email template, what are two recommended processes? (Choose two.)
+E a
+Ir E) Within the Edit content from the Template properties, select an email surface and send a proof | E
+L £1 Within the Journey main screen, create a test journey and use the new template in an email activity a
+i a
+a8
+Es o Within a validation tool, import the HTML of the final template and validate =
+i
+E £7 Within the Edit content from the Template properties, click Simulate Content and select a test profile to check the email tender
+o E
+. r
+E J
+4 Choose 2 options. |
+r A
+- Send a comment about this question A
+L an
+Re ul
+i ñ
+L ñ
+Du — i
+SE =. os nO
+| Q Buscar L a e y - =
